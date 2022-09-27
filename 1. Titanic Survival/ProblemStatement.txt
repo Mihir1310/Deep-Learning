@@ -1,0 +1,1 @@
+In this program we will use EDA for the uneven Titanic dataset (available on kaggle) and try to predict whether the particular passenger survived or not.
